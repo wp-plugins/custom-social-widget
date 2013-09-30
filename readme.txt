@@ -25,7 +25,7 @@ Each widget generates this code automatically:<br />
 
 <strong>Add separate widget for each social link.</strong>
 
-	i.e: <strong>Starting Tag</strong>< a href="<strong>Social Link</strong>" title="<strong>Social Icon Name</strong>" >< img src="<strong>Social Icon</strong>" alt="<strong>Social Icon Name</strong>" /></ a><strong>Ending Tag</strong>
+i.e: <strong>Starting Tag</strong>< a href="<strong>Social Link</strong>" title="<strong>Social Icon Name</strong>" >< img src="<strong>Social Icon</strong>" alt="<strong>Social Icon Name</strong>" /></ a><strong>Ending Tag</strong>
 
 	i.e: <ul>
 			<li><a href="Social Link" title="Social Icon Name"><img src="Social Icon" alt="Social Icon Name" /></a></li> <===First Widget End
@@ -41,6 +41,8 @@ Have fun!
 2. Upload `custom-social-widget` directory to the `/wp-content/plugins/` directory
 3. Activate the plugin through the 'Plugins' menu in WordPress
 4. Go to Widgets section, you can find <strong>"Custom Social Icon"</strong> widget there.
+
+<strong>Add separate widget for each social link.</strong>
 
 == Frequently Asked Questions ==
 <strong>Q. Links not working or showing 404 error!</strong><br />
