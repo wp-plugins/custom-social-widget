@@ -14,7 +14,7 @@ This plugin will let you add custom social links. Simple but flexible.
 
 This is simple plugin but very essential. We have to put social icons e.g facebook, twitter, linkedin as well as links into websites. Most of the time we do it in hard code. This plugin allows you to manage social icons via wordpress widget. You will be able to select image, title and link for each icons!
 
-Each widget generates this code automatically: 
+Each widget generates this code automatically:<br />
 < a href="<strong>Your Given Link</strong>" title="<strong>Your Given Title</strong>" >< img src="<strong>Your Selected Image</strong>" alt="<strong>Your Given Title</strong>" /></ a>
 
 <strong>Starting Tag</strong> (optional)<br />
@@ -38,12 +38,9 @@ Have fun!
 == Installation ==
 
 1. Unzip the archive on your computer
-
 2. Upload `custom-social-widget` directory to the `/wp-content/plugins/` directory
-
 3. Activate the plugin through the 'Plugins' menu in WordPress
-
-4. Go to Widgets section, you can find "Custom Social Icon" widget there.
+4. Go to Widgets section, you can find <strong>"Custom Social Icon"</strong> widget there.
 
 == Frequently Asked Questions ==
 <strong>Q. Links not working or showing 404 error!</strong><br />
