@@ -12,6 +12,11 @@ This plugin will let you add custom social links. Simple but flexible.
 
 == Description ==
 
+This is simple plugin but very essential. We have to put social icons e.g facebook, twitter, linkedin as well as links into websites. Most of the time we do it in hard code. This plugin allows you to manage social icons via wordpress widget. You will be able to select image, title and link for each icons!
+
+Each widget generates this code automatically: 
+< a href="<strong>Your Given Link</strong>" title="<strong>Your Given Title</strong>" >< img src="<strong>Your Selected Image</strong>" alt="<strong>Your Given Title</strong>" /></ a>
+
 <strong>Starting Tag</strong> (optional)<br />
 <strong>Social Icon Name</strong> will use as <strong>"a"</strong> tag title and <strong>"img"</strong> tag alt text. (optional)<br />
 <strong>Social Link</strong> give your page/account link here. (required)<br />
@@ -20,13 +25,15 @@ This plugin will let you add custom social links. Simple but flexible.
 
 <strong>Add separate widget for each social link.</strong>
 
-i.e: <strong>Starting Tag</strong>< a href="<strong>Social Link</strong>" title="<strong>Social Icon Name</strong>" >< img src="<strong>Social Icon</strong>" alt="<strong>Social Icon Name</strong>" /></ a><strong>Ending Tag</strong>
+	i.e: <strong>Starting Tag</strong>< a href="<strong>Social Link</strong>" title="<strong>Social Icon Name</strong>" >< img src="<strong>Social Icon</strong>" alt="<strong>Social Icon Name</strong>" /></ a><strong>Ending Tag</strong>
 
 	i.e: <ul>
 			<li><a href="Social Link" title="Social Icon Name"><img src="Social Icon" alt="Social Icon Name" /></a></li> <===First Widget End
 			<li><a href="Social Link" title="Social Icon Name"><img src="Social Icon" alt="Social Icon Name" /></a></li> <===Second Widget End
 			<li><a href="Social Link" title="Social Icon Name"><img src="Social Icon" alt="Social Icon Name" /></a></li> <===Third Widget End
 	    </ul>
+
+Have fun!
 
 == Installation ==
 
