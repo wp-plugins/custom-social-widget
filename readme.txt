@@ -55,10 +55,10 @@ A. No, you need separate widget for each social link.
 
 == Changelog ==
 
+= 1.2 =
+Compatibility Updated for 3.7.1
 = 1.1 =
 <ul>
 <li>Fix multiple showing into frontend.</li>
 <li>Update social icon adding system.</li>
 </ul>
-= 1.2 =
-Compatibility Updated for 3.7.1
