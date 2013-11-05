@@ -3,7 +3,7 @@ Contributors: shuvra124
 Donate link: #
 Tags: widget, social
 Requires at least: 3.0.1
-Tested up to: 3.6.1
+Tested up to: 3.7.1
 Stable tag: "trunk"
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -60,3 +60,5 @@ A. No, you need separate widget for each social link.
 <li>Fix multiple showing into frontend.</li>
 <li>Update social icon adding system.</li>
 </ul>
+= 1.2 =
+Compatibility Updated for 3.7.1

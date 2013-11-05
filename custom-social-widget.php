@@ -3,7 +3,7 @@
  * Plugin Name: Custom Social Widget
  * Plugin URI: http://www.matrivumisoft.com
  * Description: This plugin will let you add custom social links. Simple but flexible. <strong>Starting Tag</strong> (optional), <strong>Social Icon Name</strong> will use as <strong>"a"</strong> tag title and <strong>"img"</strong> tag alt text, <strong>Social Link</strong> give your page/account link here, <strong>Social Icon</strong> upload social icon from here, <strong>Ending Tag</strong> (optional). <strong>Add separate widget for each social link.</strong>
- * Version: 1.1
+ * Version: 1.2
  * Author: Shuvra
  * Author URI: http://www.matrivumisoft.com
  * Disclaimer: Use at your own risk. No warranty expressed or implied is provided.
