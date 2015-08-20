@@ -3,7 +3,7 @@ Contributors: shuvra124
 Donate link: #
 Tags: widget, social
 Requires at least: 3.0.1
-Tested up to: 3.8
+Tested up to: 4.3
 Stable tag: "trunk"
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -55,6 +55,8 @@ A. No, you need separate widget for each social link.
 
 == Changelog ==
 
+= 1.3 =
+Compatibility Updated for 4.3
 = 1.2 =
 Compatibility Updated for 3.7.1
 = 1.1 =
